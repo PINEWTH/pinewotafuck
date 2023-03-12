@@ -1,4 +1,4 @@
-local pine = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
+local pine = loadstring(game:HttpGet('https://raw.githubusercontent.com/PINEWTH/IntoStudio/main/source.lua'))()
 getgenv().SecureMode = true
 
 local Window = Rayfield:CreateWindow({
